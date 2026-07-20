@@ -47,7 +47,23 @@
 
 <img width="1920" height="2032" alt="vara_전체_아키텍처" src="https://github.com/user-attachments/assets/4da6e148-4107-4060-b9cb-e56769a18849" />
 
+---
 
+## 📁 기타 프로젝트
+
+### 🤟 수어 번역 서비스 (졸업 캡스톤 디자인)
+> 손 동작을 인식해 수어를 텍스트로 실시간 번역하는 서비스
+
+🔗 **[2025-capstone-gimsongi](https://github.com/2025-capstone-gimsongi)**
+📅 2025 | 👤 [손 인식 모델 / 백엔드]
+
+<br>
+
+### 👵 유성 리빙랩 — 어르신 SNS 알림 서비스
+> 고령층을 위한 SNS 알림 서비스를 개발해 주민 행정서비스 개선에 기여
+
+🔗 **[yuseong-livinglab25-team_C](https://github.com/HBNU-SWUNIV/yuseong-livinglab25-team_C)**
+📅 2025 | 🏆 2025 유성 데이터기반 실증 리빙랩 **우수상** | 👤 [백엔드 및 DB 관리]
 <!-- [ ] 여유되면: 아키텍처 다이어그램 이미지 추가하면 훨씬 좋음 -->
 <!-- [ ] 여유되면: 데모 스크린샷이나 GIF 추가 -->
 
